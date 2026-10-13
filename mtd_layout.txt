@@ -1,0 +1,12 @@
+cat /proc/mtd
+dev:    size   erasesize  name
+mtd0: 07f80000 00020000 "ALL"
+mtd1: 00080000 00020000 "Bootloader"
+mtd2: 00080000 00020000 "Config"
+mtd3: 00040000 00020000 "Factory"
+mtd4: 01400000 00020000 "firmware"
+mtd5: 010f9033 00020000 "rootfs"
+mtd6: 009a0000 00020000 "rootfs_data"
+mtd7: 01400000 00020000 "firmware2"
+mtd8: 05640000 00020000 "data"
+root@vthomeap:~# 
